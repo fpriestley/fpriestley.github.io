@@ -5,10 +5,10 @@ permalink: /research/
 ---
 ### Star formation
 
-Most of my work on star formation involves trying to connect simulations of molecular clouds and prestellar cores to directly observable properties. Star-forming regions are typically observed in molecular lines and dust continuum emission, whereas hydrodynamical simulations output the density, which has to be inferred observationally via assumptions about the gas properties. By post-processing simulation results with time-dependent chemical networks and radiative transfer models, the resulting intensities can be directly compared to the data. I'm using this to investigate how the filamentary structures frequently seen in molecular clouds are formed, and the importance of magnetic fields in the collapse of dense cores to protostellar objects.
+Most of my work on star formation involves trying to connect the predictions of theoretical models to what actually gets observed by telescopes, primarily molecular line emission. Synthetic observations, the result of combining hydrodynamics, chemistry and radiative transfer, can be compared directly with observational data, which is much easier than trying to use the data to work out the underlying physical properties of whatever is being observed. The aim is to extract hard predictions from the various competing theories of star formation: if x happens, then molecular line data should look like y.
 
-![HCN filament](https://raw.githubusercontent.com/fpriestley/fpriestley.github.io/master/hcn.png)
+![Simulated cloud seen in N2H+ emission](https://raw.githubusercontent.com/fpriestley/fpriestley.github.io/master/n2h.png)
 
-### Dust in supernovae and supernova remnants
+### Dust, supernovae, dusty supernovae
 
-Supernovae are known to both form and destroy dust in the interstellar medium, and might be the dominant mechanism for both processes, particularly at high redshift. I've been calculating dust temperatures and emissivities based on the known physical conditions in supernova remnants, rather than treating the temperature as a free parameter, which results in much better constrained models when fitting the infrared emission. This enables a more detailed investigation of the dust composition and size distribution, and estimatation of the formation and destruction efficiency with relatively few assumptions about the underlying physics.
+Core-collapse supernovae are known to produce large masses of dust. However, it is commonly thought that this still isn't enough to explain the observed dust masses in galaxies, particularly as they also destroy dust, and therefore additional dust formation in the interstellar medium is required. My work on this is split into two parts: using infrared observations of supernova remnants to tie down some of the many unknowns going into models of dust evolution, such as destruction efficiencies; and reevaluating the underlying assumptions of these models, which often neglect important physical processes.
