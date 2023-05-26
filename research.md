@@ -7,7 +7,7 @@ permalink: /research/
 
 Most of my work on star formation involves trying to connect the predictions of theoretical models to what actually gets observed by telescopes, primarily molecular line emission. Synthetic observations, the result of combining hydrodynamics, chemistry and radiative transfer, can be compared directly with observational data. This is much easier than trying to use the data to work out the underlying physical properties of whatever is being observed. The aim is to extract hard predictions from the various competing theories of star formation: if x happens, then the molecular line data should look like y. Quite frequently, they don't.
 
-![Simulated cloud seen in N2H+ emission](https://raw.githubusercontent.com/fpriestley/fpriestley.github.io/master/n2h.png)
+![Simulated cloud seen in HCN emission](https://raw.githubusercontent.com/fpriestley/fpriestley.github.io/master/mag_img_hcn.png)
 
 ### Dust, supernovae, dusty supernovae
 
