@@ -3,9 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
+### Astrochemistry
+
+My research in astrochemistry involves combining state-of-the-art magnetohydrodynamical simulations of molecular cloud evolution with large chemical networks, using post-processing techniques such as the [NEATH framework](https://fpriestley.github.io/neath/) I developed at Cardiff. Chemical evolution depends strongly on the gas dynamics, and more sophisticated dynamical models often result in fundamentally different molecular abundances to those obtained from simplistic one-zone collapse models. For example, complex organic species such as methanol form in relatively diffuse gas, rather than in the dense cores as is often assumed, with implications for the inherited prebiotic content of planet-forming discs.
+
 ### Star formation
 
-Most of my work on star formation involves trying to connect the predictions of theoretical models to what actually gets observed by telescopes, primarily molecular line emission. Synthetic observations, the result of combining hydrodynamics, chemistry and radiative transfer, can be compared directly with observational data. This is much easier than trying to use the data to work out the underlying physical properties of whatever is being observed. The aim is to extract hard predictions from the various competing theories of star formation: if x happens, then the molecular line data should look like y. Quite frequently, they don't.
+Most of my work on star formation involves trying to connect the predictions of theoretical models to what actually gets observed by telescopes, primarily molecular line emission. Synthetic observations, the result of combining hydrodynamics, chemistry and radiative transfer, can be compared directly with observational data. This is much easier than trying to use the data to work out the underlying physical properties of whatever is being observed. The aim is to extract hard predictions from the various competing theories of star formation: if X happens, then the molecular line data should look like Y. Quite frequently, they don't.
 
 ### Dust, supernovae, dusty supernovae
 
