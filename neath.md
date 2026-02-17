@@ -7,7 +7,10 @@ NEATH (Non-Equilibrium Abundances Treated Holistically) is a framework for post-
 
 ### Publications
 
-[NEATH IV: an early onset of complex organic chemistry in molecular clouds]{https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.2453P/abstract}
-[NEATH - III. A molecular line survey of a simulated star-forming cloud]{https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.4408P/abstract}
-[NEATH - II. N2H+ as a tracer of imminent star formation in quiescent high-density gas]{https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4952P/abstract}
-[Non-Equilibrium Abundances Treated Holistically (NEATH): the molecular composition of star-forming clouds ]{https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.5971P/abstract}
+[NEATH IV: an early onset of complex organic chemistry in molecular clouds](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.2453P/abstract)
+
+[NEATH - III. A molecular line survey of a simulated star-forming cloud](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.4408P/abstract)
+
+[NEATH - II. N2H+ as a tracer of imminent star formation in quiescent high-density gas](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.4952P/abstract)
+
+[Non-Equilibrium Abundances Treated Holistically (NEATH): the molecular composition of star-forming clouds](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.5971P/abstract)
